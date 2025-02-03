@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Please explore further
+
+This will allow you to access some of my projects: https://ryann908.github.io/Admin-Dashboard/
+
 <!--
 **Ryann908/Ryann908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
